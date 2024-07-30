@@ -1,4 +1,4 @@
-# Incubyte - String Calculator\
+# Incubyte - String Calculator
 
 ### Setup
 1. RUN git clone https://github.com/RahulKumarPrajapati/incubyte.git
